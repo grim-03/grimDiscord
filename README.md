@@ -1,4 +1,4 @@
-# entityDiscord
+# grimDiscord
 A FiveM resource that utilizes Discord's API
 
 ![](https://img.shields.io/github/downloads/itsEntity/entityDiscord/total?logo=github)
@@ -7,7 +7,7 @@ A FiveM resource that utilizes Discord's API
 ![](https://img.shields.io/github/v/release/itsEntity/entityDiscord?logo=github) 
 
 ## 📚 Documentation
-https://entity-6.gitbook.io/entitydiscord 
+https://grimdev.gitbook.io/grimdiscord
 
 ## 💾 Download
-https://github.com/itsEntity/entityDiscord/releases
+https://github.com/grim-03/grimDiscord/releases
